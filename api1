@@ -6,7 +6,14 @@
  "phone": 9997772534
 }
 
+//API 2
 
-
+JSON
+{
+ "company": "Tech Mahindra" 
+ "currentPrice": 213,
+ "accountNumber": 21021,
+"githubRepoLink" : "https://github.com/raghavkhattar03/bajaj-Finserv/blob/8e1951c94eb7022fb3e33107d75080f7c2aad1e2/api1"
+}
 
 
